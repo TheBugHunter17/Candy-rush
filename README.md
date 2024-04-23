@@ -1,4 +1,5 @@
-##Candy Rush Game
+Candy Rush Game
+
 Welcome to Candy Crush! This is a simple web-based game where players match colorful candies to score points and advance through levels.
 
 ##Table of Contents
