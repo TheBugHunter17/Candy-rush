@@ -55,4 +55,4 @@ To run the game locally:
 
 ## Hosted Link
 
-The game is hosted on 
+The game is hosted on [ https://662809a7671dfd0089fc2022--phenomenal-pastelito-e7bfe5.netlify.app/]
